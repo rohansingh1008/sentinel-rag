@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/.ingested_files.json
+*.pdf
+*.txt
+!requirements.txt
+!README.md
