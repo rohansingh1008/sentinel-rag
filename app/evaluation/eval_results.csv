@@ -1,0 +1,22 @@
+question,answer,faithfulness_score,faithfulness_reason,relevance_score,relevance_reason
+What are noise models?,"Noise models are components of a noisy‑channel system that simulate the kinds of mistakes humans make when producing text. In the described system each noise model is implemented as a weighted finite‑state transducer (wFST) that takes an error‑free sentence as input and, with a specified probability, outputs a version containing a particular type of error (e.g., spelling errors, article‑choice errors, preposition‑choice errors, insertion errors) [Source 1]. Multiple noise models can be combined (layered) to allow several error types to appear in the same sentence [Source 2]. Together with a base language model, the noise model forms the second main component of the overall noisy‑channel model [Source 4].",1.0,"The answer accurately reflects statements in the context about noise models being wFSTs that generate specific error types, can be layered, and together with a base language model form the noisy‑channel system.",0.95,"The answer clearly defines noise models, explains their purpose, implementation, and role, directly addressing the question."
+What is the eligibility criteria for the exam?,"**Eligibility criteria for the exam (as stated in the reference documents)**  
+
+1. **Educational qualification**  
+   * Must have a relevant **Bachelor’s degree in Engineering** (or MCA for the ET‑BIS post) from an approved institute/university【Source 1†L1-L4】.  
+   * The degree may be awarded as a percentage or as CGPA/OGPA/CPI; if a CGPA‑type grade is used, the candidate must convert it to an equivalent percentage and obtain a certification from the university【Source 3†L1-L5】.  
+
+2. **Minimum aggregate marks**  
+   * **General, EWS, and OBC (NCL) candidates:** at least **65 %** aggregate marks up to the last semester/examination【Source 2†L1-L3】.  
+   * **SC, ST, and PwBD candidates:** at least **60 %** aggregate marks up to the last semester/examination【Source 2†L1-L3】.  
+
+3. **Age limit**  
+   * An **upper age limit** is prescribed (exact figure omitted in the excerpt)【Source 1†L7-L8】.  
+   * Age‑relaxation rules apply as per the detailed age‑limit schedule (not fully shown).  
+
+4. **Other conditions**  
+   * No rounding‑off of marks is allowed; a recorded 64.99 % will **not** be treated as 65 % for the General category【Source 4†L1-L4】.  
+   * Candidates who completed their engineering/MCA degree **after the specified cutoff date** are **not eligible**【Source 1†L2-L4】.  
+
+These points together constitute the eligibility criteria that applicants must satisfy to be considered for",1.0,All statements in the answer are directly drawn from or clearly inferred from the provided context.,0.9,"The answer comprehensively lists the main eligibility requirements—education, minimum marks, age limits, and additional conditions—though it omits the exact upper age figure."
+What is the refund policy?,"The policy states that refunds for international orders can take an extra 10‑14 business days because of customs and international banking procedures. Additionally, digital products and gift cards are not refundable. 【Source 1】",1.0,The answer accurately restates the refund timeline and non‑refundable items exactly as described in the context.,0.6,The answer gives some relevant details about international refunds and exclusions but does not provide a comprehensive overview of the overall refund policy.

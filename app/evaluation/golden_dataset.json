@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What are noise models?",
+    "reference_answer": "Noise models are components of a noisy-channel system that simulate the kinds of errors humans make when producing text, implemented as weighted finite-state transducers (wFSTs) that take error-free input and output erroneous sentences with a specified probability.",
+    "user_role": "employee"
+  },
+  {
+    "question": "What is the eligibility criteria for the exam?",
+    "reference_answer": "Eligibility requires essential educational qualifications as specified for each post, along with documentary proof such as provisional certificates and mark sheets from all semesters or years.",
+    "user_role": "employee"
+  },
+  {
+    "question": "What is the refund policy?",
+    "reference_answer": "The standard refund policy allows customers to request a refund within 30 days of purchase, provided the product is unused and in original packaging.",
+    "user_role": "guest"
+  }
+]
